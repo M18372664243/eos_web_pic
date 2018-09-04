@@ -1,0 +1,11 @@
+target
+.settings
+.classpath
+.project
+
+.idea
+.iml
+start
+.sh.
+node_modules
+*.tgz
